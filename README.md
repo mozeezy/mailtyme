@@ -6,7 +6,7 @@
 
 ### Main page
 
-[!Main-page](https://github.com/mozeezy/mailtyme/blob/master/public/images/home-page.png?raw=true)
+![Main-page](https://github.com/mozeezy/mailtyme/blob/master/public/images/home-page.png?raw=true)
 
 ## Stacks and Tools used
 
