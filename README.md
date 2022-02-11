@@ -1,6 +1,6 @@
 # MailTyme
 
-> A newsletter app that utilizes MailChimp API to add subscribed members to a list. STILL IN PROGRESS.
+> A newsletter app that utilizes MailChimp API to add subscribed members to a list. *** STILL IN PROGRESS **.
 
 ## Screenshot
 
